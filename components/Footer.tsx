@@ -49,7 +49,7 @@ export const FooterImpl: React.FC = () => {
         )}
       </div>
 
-      <div className={styles.social}>
+      <!--div className={styles.social}>
         {config.twitter && (
           <a
             className={styles.twitter}
@@ -121,7 +121,7 @@ export const FooterImpl: React.FC = () => {
             <FaYoutube />
           </a>
         )}
-      </div>
+      </div-->
     </footer>
   )
 }
