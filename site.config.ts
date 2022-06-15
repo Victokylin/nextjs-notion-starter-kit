@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '147bd1b7fc184277b3edfdd23898419e',
+  rootNotionPageId: '731cf85037ec4761a571dff45bfc0f23',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '共享材料使用及管理规范',
-  domain: 'https://poweroad.notion.site/147bd1b7fc184277b3edfdd23898419e',
-  author: 'Victor',
+  name: '欢迎来到比特立方',
+  domain: 'https://bitscube.notion.site/731cf85037ec4761a571dff45bfc0f23',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
