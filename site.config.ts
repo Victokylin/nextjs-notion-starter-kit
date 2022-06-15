@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c21016db546d4e16a064894f446a1520',
+  rootNotionPageId: '147bd1b7fc184277b3edfdd23898419e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'POWEROAD-EXHIBITION-DATABASE',
-  domain: 'https://poweroad.notion.site/poweroad/POWEROAD-EXHIBITION-DATABASE-c21016db546d4e16a064894f446a1520',
+  name: '共享材料使用及管理规范',
+  domain: 'https://poweroad.notion.site/147bd1b7fc184277b3edfdd23898419e',
   author: 'Victor',
 
   // open graph metadata (optional)
